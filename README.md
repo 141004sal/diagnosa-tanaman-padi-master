@@ -1,1 +1,2 @@
-# diagnosa-tanaman-padi-master
+# diagnosa-tanaman-padi
+Aplikasi Sistem Pakar Tanaman Padi
